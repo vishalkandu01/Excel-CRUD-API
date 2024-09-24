@@ -1,0 +1,6 @@
+@ExcelCRUDAPI_HostAddress = http://localhost:5143
+
+GET {{ExcelCRUDAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
